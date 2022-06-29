@@ -1,4 +1,4 @@
-# bucket_list_with_firebase
+# bucketList
 
 A new Flutter project.
 
